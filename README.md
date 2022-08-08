@@ -8,8 +8,8 @@
 <h2> Installation Process Step-by-Step</h2>
  <p>
  1. Download Burp Suite Proffessional Jar File From <br>
-     <a href=" https://portswigger.net/burp/releases#professional ">Burp Suite Proffessional Release Note </a> <br>
+   <p><a href=" https://portswigger.net/burp/releases#professional ">Burp Suite Proffessional Release Note </a></p> <br>
  2.    
-</p>
+
  </body>
  </html>
