@@ -1,8 +1,8 @@
 <h1 align="center">Burp-Win </h1>
-  Burp Suite Professional for free in Windows Operating System
+<p align="center">Burp Suite Professional for free in Windows Operating System</p>
 
-Burp Suite Proffessional Free Installation In Windows 
- Installation Process Step-by-Step
+<h1 align="center">Burp Suite Proffessional Free Installation In Windows  </h1>
+ <h2 align="center"> Installation Process Step-by-Step </h2>
 
  1. Download Burp Suite Proffessional Jar File From 
   - click [HERE] (https://portswigger.net/burp/releases#professional)
