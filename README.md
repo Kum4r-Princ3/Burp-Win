@@ -5,7 +5,7 @@
 
  ## Prerequisites 
  - Java Development Kit 18 [Download](https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe)
- - 
+ 
  <h2 align="center"> Installation Process Step-by-Step </h2>
  
  1. Download Burp Suite Proffessional Jar File (Stable) From 
