@@ -1,0 +1,1 @@
+java --illegal-access=warn -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar burpsuite_pro_v2022.6.1.jar
