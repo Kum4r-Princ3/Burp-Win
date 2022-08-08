@@ -22,5 +22,5 @@
  
  7. Double Click On (launch.vbs & license.jar) File
  
-   [Tutorial]
+    [Tutorial]
 
