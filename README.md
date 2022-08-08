@@ -1,4 +1,6 @@
-<DOCTYPE! HTML>
+<!DOCTYPE html>
+<html>
+ <body>
 <h1> Burp-Win </h1>
 <p> Burp Suite Professional for free in Windows Operating System</p> 
 
@@ -9,3 +11,5 @@
      <a href=" https://portswigger.net/burp/releases#professional ">Burp Suite Proffessional Release Note </a> <br>
  2.    
 </p>
+ </body>
+ </html>
