@@ -5,6 +5,6 @@
  <h2 align="center"> Installation Process Step-by-Step </h2>
 
  1. Download Burp Suite Proffessional Jar File From 
-  - click [HERE] (https://portswigger.net/burp/releases#professional)
+ - Burp Suite [Release]( https://portswigger.net/burp/releases#professional) 
  2.    
 
