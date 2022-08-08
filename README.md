@@ -20,7 +20,9 @@
  
  6. Move It To C: Drive
  
- 7. Double Click On (launch.vbs & license.jar) File
+ 7. Open (BURPSUITE_PRO) Folder
+ 
+ 8. Double Click On (launch.vbs & license.jar) File
  
     [Tutorial]
 
